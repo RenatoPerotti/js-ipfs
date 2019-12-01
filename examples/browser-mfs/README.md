@@ -7,8 +7,8 @@ The MFS is a file system abstraction built on top of IPFS.  It supports all the 
 In this directory:
 
 ```
-$ npm install
-$ npm start
+$ npm install     (don't be bothered by the WARNings)
+$ npm start       (do this twice the first time)
 ```
 
 Then open [http://localhost:8888](http://localhost:8888) in your browser.
